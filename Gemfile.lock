@@ -114,6 +114,7 @@ DEPENDENCIES
   awesome_print
   database_cleaner
   delayed_job_groups_mongoid!
+  rails (~> 3.0)
   rspec-rails
   ruby-debug
   sqlite3-ruby
